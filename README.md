@@ -9,6 +9,12 @@ Here any text about our customer
 - number on in list
 - number two in list
 
+```markdown
+Syntax highlighted code block
+get print(url) 
+if var is false then:
+  commit;
+  
 
 ```markdown
 Syntax highlighted code block
@@ -28,7 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [hedal.ch] (http://hedal.ch)
+For more details see [hedal.ch](http://hedal.ch)
 
 ### Themes
 
