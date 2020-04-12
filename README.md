@@ -33,11 +33,10 @@ tttt
 xxxxx
        ggggggggggggggggggggggggggggggggggggggggggggggg
 
-```markdown
+
 Syntax highlighted code block
+```markdown
 
-
-**Bold** and _Italic_ and `Code` text
 ```
 
 For more details see [hedal.ch](http://hedal.ch)
