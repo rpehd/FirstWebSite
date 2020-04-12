@@ -15,7 +15,7 @@ rrrr
 tttt
 ```markdown
 xxxxx
-       ggggggggggggggggggggggggggggggggggggggggggggggg
+    ggggggggggggggggggggggggggggggggggggggggggggggg
 
 ```markdown
 Syntax highlighted code block
