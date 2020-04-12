@@ -26,6 +26,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+rrrr
+```markdown
+tttt
+```markdown
+xxxxx
+       ggggggggggggggggggggggggggggggggggggggggggggggg
+
+```markdown
+Syntax highlighted code block
+
+
+**Bold** and _Italic_ and `Code` text
+
+
 For more details see [hedal.ch](http://hedal.ch)
 
 ### Themes
