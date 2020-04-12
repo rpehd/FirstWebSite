@@ -19,12 +19,12 @@ xxxxx
 
 ```markdown
 Syntax highlighted code block
-
+```
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 rrrr
 ```markdown
@@ -38,7 +38,7 @@ Syntax highlighted code block
 
 
 **Bold** and _Italic_ and `Code` text
-
+```
 
 For more details see [hedal.ch](http://hedal.ch)
 
